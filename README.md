@@ -9,7 +9,7 @@ Actualmente estoy formándome en Desarrollo de Aplicaciones Web (DAW). Me encant
 
 Disfruto tanto del desarrollo frontend como del backend, trabajando con JavaScript y PHP para construir aplicaciones web completas y funcionales.
 
-🌱 Actualmente aprendiendo: [React, PHP y Vue]
+🌱 Actualmente aprendiendo: React, PHP y Vue
 💡 Interesada en: Desarrollo Frontend y Backend
 
 📫 Contacto
