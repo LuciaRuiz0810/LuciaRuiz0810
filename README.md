@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hola, soy Lucía!
 
-<!--
-**LuciaRuiz0810/LuciaRuiz0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Estudiante de DAW - Desarrollo de Aplicaciones Web 💻
+🔧 JavaScript • React • Java • PHP • SQL
+🎨 HTML5 • CSS3 • Bootstrap
 
-Here are some ideas to get you started:
+🚀 Sobre mí
+Actualmente estoy formándome en Desarrollo de Aplicaciones Web (DAW). Me encanta crear interfaces intuitivas, aprender nuevas tecnologías cada día y con ello seguir estudiando y adquieriendo experiencias en diferentes campos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Disfruto tanto del desarrollo frontend como del backend, trabajando con JavaScript y PHP para construir aplicaciones web completas y funcionales.
+
+🌱 Actualmente aprendiendo: [React, PHP y Vue]
+💡 Interesada en: Desarrollo Frontend y Backend
+
+📫 Contacto
+📧 Email: luciaruisal@gmail.com
+
