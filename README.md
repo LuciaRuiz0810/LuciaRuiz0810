@@ -15,16 +15,15 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
 </div>
 
 ---
 
 ## 🚀 Sobre mí
 
-Actualmente estoy formándome en Desarrollo de Aplicaciones Web (DAW). Me encanta crear interfaces intuitivas, aprender nuevas tecnologías cada día y con ello seguir estudiando y adquiriendo experiencias en diferentes campos.
+Actualmente estoy formándome en **Desarrollo de Aplicaciones Web (DAW)**. Me encanta crear interfaces intuitivas, aprender nuevas tecnologías cada día y con ello seguir estudiando y adquiriendo experiencias en diferentes campos.
 
-Disfruto tanto del desarrollo frontend como del backend, trabajando con JavaScript y PHP para construir aplicaciones web completas y funcionales.
+Disfruto tanto del **desarrollo frontend** como del **backend**, trabajando con JavaScript y PHP para construir aplicaciones web completas y funcionales.
 
 - 🌱 Actualmente aprendiendo: **React, PHP, Vue y Laravel**
 - 💡 Interesada en: **Desarrollo Frontend y Backend**
@@ -32,6 +31,39 @@ Disfruto tanto del desarrollo frontend como del backend, trabajando con JavaScri
 
 ---
 
+## 🛠️ Herramientas y Entorno de Desarrollo
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Roadmap de Aprendizaje 2025
+
+```mermaid
+graph LR
+    A[✅ HTML/CSS] --> B[✅ JavaScript]
+    B --> C[🔄 React]
+    B --> D[🔄 Vue]
+    A --> E[✅ PHP]
+    E --> F[🔄 Laravel]
+    E --> G[📅 API REST]
+```
+
+---
+
+## 📈 Actividad Reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 
 ## 📫 Contacto
 
@@ -51,4 +83,3 @@ Disfruto tanto del desarrollo frontend como del backend, trabajando con JavaScri
 *"El código es poesía"* 💻✨
 
 </div>
-
