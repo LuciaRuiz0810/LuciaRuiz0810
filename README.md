@@ -32,17 +32,6 @@ Disfruto tanto del desarrollo frontend como del backend, trabajando con JavaScri
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![Lucía's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciaRuiz0810&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaRuiz0810&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## 📫 Contacto
 
