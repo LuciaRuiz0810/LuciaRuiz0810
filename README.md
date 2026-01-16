@@ -47,16 +47,22 @@ Disfruto tanto del **desarrollo frontend** como del **backend**, trabajando con 
 ## 🎯 Roadmap de Aprendizaje 2025
 
 ```mermaid
-graph LR
+graph TB
     A[✅ HTML/CSS] --> B[✅ JavaScript]
+    A --> H[✅ Tailwind CSS]
+    A --> I[✅ Bootstrap]
+    
     B --> C[🔄 React]
     B --> D[🔄 Vue]
+    
     A --> E[✅ PHP]
     E --> F[🔄 Laravel]
     E --> G[📅 API REST]
+    
+    style A fill:#e34f26,color:#fff
+    style B fill:#f7df1e,color:#000
+    style E fill:#777bb4,color:#fff
 ```
-
----
 
 ## 📈 Actividad Reciente
 
