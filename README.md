@@ -86,6 +86,5 @@ graph TB
   
 ### ⭐ ¡Gracias por visitar mi perfil! ⭐
 
-*"El código es poesía"* 💻✨
 
 </div>
